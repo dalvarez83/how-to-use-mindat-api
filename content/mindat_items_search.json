@@ -1,0 +1,76 @@
+{
+    "results": [
+        {
+            "id": 10479,
+            "name": "Adelaide ruby",
+            "ima_status": 0,
+            "synid": 452
+        },
+        {
+            "id": 39117,
+            "name": "Arizona Ruby",
+            "ima_status": 0,
+            "synid": 3321
+        },
+        {
+            "id": 10774,
+            "name": "Quartz-alpha",
+            "ima_status": 0,
+            "synid": 3337
+        },
+        {
+            "id": 10775,
+            "name": "Quartz-\u03b1",
+            "ima_status": 0,
+            "synid": 3337
+        },
+        {
+            "id": 30751,
+            "name": "Quartz cubique",
+            "ima_status": 0,
+            "synid": 721
+        },
+        {
+            "id": 48310,
+            "name": "Quartz-gabbro",
+            "ima_status": 0,
+            "synid": 0
+        },
+        {
+            "id": 50544,
+            "name": "Quartz gabbro",
+            "ima_status": 0,
+            "synid": 0
+        },
+        {
+            "id": 3338,
+            "name": "Quartzine",
+            "ima_status": 0,
+            "synid": 0
+        },
+        {
+            "id": 48290,
+            "name": "Quartz-norite",
+            "ima_status": 0,
+            "synid": 0
+        },
+        {
+            "id": 25148,
+            "name": "Quatrandorit",
+            "ima_status": 0,
+            "synid": 11345
+        },
+        {
+            "id": 25149,
+            "name": "Quatrandorita",
+            "ima_status": 0,
+            "synid": 11345
+        },
+        {
+            "id": 11345,
+            "name": "Quatrandorite",
+            "ima_status": 9,
+            "synid": 0
+        }
+    ]
+}

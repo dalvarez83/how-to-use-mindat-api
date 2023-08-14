@@ -1,0 +1,43 @@
+{
+    "results": [
+        {
+            "id": 306797,
+            "longid": "1:2:306797:3",
+            "guid": "c3f7654b-be80-482a-97ba-369d503b27d0",
+            "txt": "Aegean Sea Plate",
+            "revtxtd": "Aegean Sea Plate",
+            "description_short": "\"A small tectonic plate located in the eastern Mediterranean Sea under southern Greece and far western Turkey. Its southern edge is a subduction zone south of Crete, where the African Plate is being swept under the Aegean Sea Plate. To the north is the...",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "langtxt": "",
+            "dateadd": "2018-12-13 13:39:17",
+            "datemodify": "2021-04-24 08:46:15",
+            "elements": "-Cu-Mn-Si-O-Ag-S-Ca-Fe-Mg-H-As-Zn-Al-K-Na-Ti-Y-Nd-Ce-La-Bi-Pb-Cl-Co-Te-C-N-U-Ni-Sb-Sr-Ba-Au-P-V-F-Mo-Sn-Cr-Hg-B-Li-In-W-Ge-Cd-I-Ru-Pt-Th-Zr-",
+            "country": "Aegean Sea Plate",
+            "refs": "Bird, P. (2003). An updated digital model of plate boundaries. Geochemistry, Geophysics, Geosystems, 4 (3), 1027. doi:10.1029/2001GC000252.",
+            "coordsystem": 0,
+            "parent": 0,
+            "links": "https://github.com/fraxen/tectonicplates/blob/master/GeoJSON/PB2002_plates.json",
+            "area": 0,
+            "non_hierarchical": 1,
+            "age": 0,
+            "meteorite_type": 0,
+            "company": 0,
+            "company2": 0,
+            "loc_status": 0,
+            "loc_group": 0,
+            "status_year": "0",
+            "company_year": "0",
+            "discovered_before": 0,
+            "discovery_year": 0,
+            "discovery_year_type": "Year Discovered",
+            "level": 0,
+            "locsinclude": "",
+            "locsexclude": "",
+            "wikipedia": "https://en.wikipedia.org/wiki/Aegean_Sea_Plate",
+            "osmid": "",
+            "geonames": 0,
+            "timestamp": "2019-06-23 10:10:35"
+        }
+    ]
+}
